@@ -4,6 +4,18 @@
 
 Все каталоги и подкаталоги, указнные в переменных, должны быть созданы заранее!
 
+Список каталогов:
+/scripts/
+/scripts/backup/
+/backup/
+/backup/DAY/
+/backup/WEEK/
+/backup/MONTH/
+/mnt/yadisk/VDS/backup/
+/mnt/yadisk/VDS/backup/DAY/
+/mnt/yadisk/VDS/backup/WEEK/
+/mnt/yadisk/VDS/backup/MONTH/
+
 Яндекс.Диск должен быть создан и примонтирован в системе. Точка монтирования - /mnt/yadisk
 
 Файлы данного каталога загружаем в папку /scripts/backup/ на Вашем сервере.
